@@ -68,7 +68,7 @@ cv:
         position: Intern, SI/PI Engineer
         location: San Jose, CA
         start_date: 2024-06
-        end_date: 2024-08
+        end_date: 2024-10
         highlights:
           - "UCIe-A channel design: performed SI/PI analysis and optimized UCIe-A channels for high-speed chiplet communication, contributing to a successful chip tape-out"
           - "Link performance optimization: conducted full-wave EM simulations to minimize crosstalk and insertion loss, ensuring robust eye-margin for next-gen interconnects"
