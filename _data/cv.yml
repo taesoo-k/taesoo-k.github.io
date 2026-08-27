@@ -1,0 +1,146 @@
+cv:
+  name: Taesoo Kim
+  label: PhD Student, Electrical and Computer Engineering
+  email: taesoo.kim@gatech.edu
+  location: Atlanta, GA
+  image: ""
+  summary: >
+    PhD student at Georgia Tech working on advanced semiconductor packaging and heterogeneous integration.
+    Designing chiplet-based, high-bandwidth systems for AI and high-performance computing, centered on
+    HBM-GPU interconnects in glass-core and interposer architectures. My work integrates signal/power-integrity
+    (SI/PI) co-design and energy-per-bit optimization, using full-wave EM and circuit simulation
+    (Ansys HFSS/SIwave, Keysight ADS) together with machine-learning-driven design methods, to enable
+    scalable, energy-efficient heterogeneous integration.
+
+  social_networks:
+    - network: LinkedIn
+      username: taesook
+
+  sections:
+    Education:
+      - institution: Georgia Institute of Technology
+        location: Atlanta, GA
+        url: https://ece.gatech.edu/
+        area: Electrical and Computer Engineering
+        studyType: PhD
+        start_date: 2025
+        end_date: 2030 (expected)
+        highlights:
+          - "Area of research: SI/PI, glass packaging, heterogeneous integration"
+          - "Advisor: Prof. Muhannad S. Bakir (Integrated 3D Systems Group)"
+          - "GPA: 4.0 / 4.0"
+
+      - institution: Korea Advanced Institute of Science and Technology (KAIST)
+        location: Daejeon, Korea
+        url: https://ee.kaist.ac.kr/
+        area: Electrical Engineering
+        studyType: MS
+        start_date: 2023
+        end_date: 2025
+        highlights:
+          - "Area of research: SI/PI, high-performance AI hardware design (HBM, chiplets)"
+          - "Advisor: Prof. Joungho Kim (Terabyte Interconnection and Package Laboratory)"
+          - "GPA: 3.80 / 4.0"
+
+      - institution: Korea Advanced Institute of Science and Technology (KAIST)
+        location: Daejeon, Korea
+        url: https://ee.kaist.ac.kr/
+        area: Electrical Engineering
+        studyType: BS
+        start_date: 2017
+        end_date: 2023
+        highlights:
+          - Magna Cum Laude
+          - Selected for the Young Engineers Honor Society (YEHS), National Academy of Engineering of Korea (NAEK), by recommendation from the Dean of the College of Engineering
+
+    Experience:
+      - company: Cisco Systems, Inc.
+        position: Signal Integrity / Hardware Engineering Intern
+        location: San Jose, CA
+        start_date: 2026-06
+        end_date: 2026-08
+        highlights:
+          - "Fiber-weave skew solver: developed a Python solver for PCB fiber-weave-induced differential skew, combining Monte Carlo material-placement statistics with frequency-dependent coupled RLGC analysis, mixed-mode S-parameters, and group-delay extraction"
+          - "Validation and reproducibility: validated against a legacy MATLAB baseline, analytical references, and HFSS/Touchstone simulation data; delivered a reproducible engineer-facing workflow with automated regression tests and maintainer documentation"
+          - "High-speed PCB SI and lab work: performed PCIe signal integrity analysis with Cadence Allegro net correlation, differential-pair and test-point mapping, TDR measurement interpretation, and high-speed test planning"
+
+      - company: Samsung Semiconductor, Inc.
+        position: Intern, SI/PI Engineer
+        location: San Jose, CA
+        start_date: 2024-06
+        end_date: 2024-08
+        highlights:
+          - "UCIe-A channel design: performed SI/PI analysis and optimized UCIe-A channels for high-speed chiplet communication, contributing to a successful chip tape-out"
+          - "Link performance optimization: conducted full-wave EM simulations to minimize crosstalk and insertion loss, ensuring robust eye-margin for next-gen interconnects"
+
+      - company: KAIST Terabyte Interconnection and Package Laboratory
+        position: Graduate Research Assistant
+        location: Daejeon, Korea
+        start_date: 2023
+        end_date: 2025
+        highlights:
+          - "Next-gen HBM architecture design: spearheaded the design of advanced HBM architectures, including Twin Tower HBM (Best Paper Award, IEEE EDAPS 2024) and Quad Tower HBM (QT-HBM) using glass substrates (Best Poster Award, IEEE EPEPS 2025)"
+          - "Glass substrate optimization: achieved significant improvements in signal density and thermal management by implementing glass-based high-density interconnects"
+          - "Project management: managed two industry-funded research projects focused on SI/PI modeling for 2.5D/3D heterogeneous integration"
+
+      - company: KAIST Computer, Architecture, System and Technology Lab
+        position: Research Assistant
+        location: Daejeon, Korea
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - "DMA controller design: developed high-efficiency DMA architectures, optimizing data transfer between SRAM and logic units for AI accelerators"
+
+    Honors and Awards:
+      - title: SK hynix Global PhD Fellowship
+        date: 2026
+        awarder: SK hynix Inc., Korea
+
+      - title: Best Poster Award
+        date: 2025
+        awarder: IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS)
+
+      - title: Best Paper Award
+        date: 2024
+        awarder: IEEE Electrical Design of Advanced Packaging and Systems (EDAPS)
+
+      - title: National Science & Technology Scholarship
+        awarder: Republic of Korea
+
+    Skills:
+      - name: Simulation / EM Tools
+        icon: fa-solid fa-microchip
+        keywords:
+          - Ansys HFSS
+          - SIwave
+          - Maxwell
+          - Q3D
+          - Keysight ADS
+          - Cadence Allegro
+          - Cadence Virtuoso
+
+      - name: Languages / Frameworks
+        icon: fa-solid fa-code
+        keywords:
+          - Python (NumPy, SciPy, Scikit-Learn)
+          - Verilog
+          - MATLAB
+
+      - name: Machine Learning and AI Techniques
+        icon: fa-solid fa-robot
+        keywords:
+          - Reinforcement learning for optimization
+
+    Leadership and Activities:
+      - label: Vice President, Korean Student Association, Georgia Tech
+        details: Atlanta, GA (2025 - present)
+
+      - label: President, Graduate Student Association of Electrical Engineering, KAIST
+        details: Daejeon, Korea (2024)
+
+      - label: President, Young Engineers Honor Society (YEHS), National Academy of Engineering of Korea
+        details: Seoul, Korea (2022)
+
+    Military Service:
+      - label: Detection Analysis Specialist (Sergeant)
+        details: ROK Defense Ground Operations Command, Korea (2020 - 2021)
